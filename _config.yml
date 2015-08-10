@@ -80,8 +80,8 @@ plugins:
 # Deployment 站点部署到github要配置，上一节中已经讲过
 deploy:
   type: git
-  repo: git@github.com:ladyShoe/ladyhexo.git
+  repo: git@github.com:ladyShoe/ladyShoe.github.io.git
   branch: master
   message: deployment
 
-duoshuo_shortname : http://ladyShoe.github.io
+duoshuo_shortname : http://wurh.github.io/
